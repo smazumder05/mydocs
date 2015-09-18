@@ -46,7 +46,7 @@ Each independent component in a system would appear in only one place.
 ####Leverage
 When a system is well factored, great leverage is available to users and implementers alike.
 
-#####Virtual Machine
+####Virtual Machine
 A virtual machine specification establishes a framework for the application of technology.
 
 ####Reactive Principle
