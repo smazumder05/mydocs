@@ -8,6 +8,8 @@ My General Notes
   4.  [Mechanical Sympathy](http://mechanical-sympathy.blogspot.com/)
   5.  [How to use Riemann](http://tech.forter.com/monitoring-with-riemann-video-slides/)
   6.  [Notes on Concurrency](http://cs.lmu.edu/~ray/notes/introconcurrency/)
+  7.  [Beware of Functional Programming in  Java ](http://www.javacodegeeks.com/2015/11/beware-of-functional-programming-in-java.html)
+  8.  [Java Specialists Magazine](http://www.javaspecialists.eu/archive/Issue204.html)
   
 
 
