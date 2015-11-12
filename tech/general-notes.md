@@ -13,6 +13,8 @@ My General Notes
   9.  [Ray Toal Computing Notes](http://cs.lmu.edu/~ray/)
   
 
+#### Clojure
+1. [Clojure](https://github.com/clojure-cookbook)
 
 ##### Raft Protocol
 
