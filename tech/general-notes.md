@@ -10,7 +10,7 @@ My General Notes
   6.  [Notes on Concurrency](http://cs.lmu.edu/~ray/notes/introconcurrency/)
   7.  [Beware of Functional Programming in  Java ](http://www.javacodegeeks.com/2015/11/beware-of-functional-programming-in-java.html)
   8.  [Java Specialists Magazine](http://www.javaspecialists.eu/archive/Issue204.html)
-  9.  [](http://cs.lmu.edu/~ray/)
+  9.  [Ray Toal Computing Notes](http://cs.lmu.edu/~ray/)
   
 
 
