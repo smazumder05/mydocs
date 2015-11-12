@@ -6,6 +6,8 @@ My General Notes
   2.  [Jut](http://www.jut.io/) - Jut unifies all your operational data (logs, metrics, and events) in one platform providing real-time correlation. All your data coupled with Jut's powerful analytics empowers you to answer any question.
   3.  [Kairos Db](http://kairosdb.github.io/)
   4.  [Mechanical Sympathy](http://mechanical-sympathy.blogspot.com/)
+  5.  [How to use Riemann](http://tech.forter.com/monitoring-with-riemann-video-slides/)
+  6.  [Notes on Concurrency](http://cs.lmu.edu/~ray/notes/introconcurrency/)
   
 
 
