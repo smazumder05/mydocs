@@ -12,9 +12,11 @@ My General Notes
   8.  [Java Specialists Magazine](http://www.javaspecialists.eu/archive/Issue204.html)
   9.  [Ray Toal Computing Notes](http://cs.lmu.edu/~ray/)
   
+  
 
 #### Clojure
 1. [Clojure](https://github.com/clojure-cookbook)
+2. [Actors and Channels in Clojure](https://github.com/puniverse/pulsar)
 
 ##### Raft Protocol
 
