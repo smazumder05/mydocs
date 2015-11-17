@@ -12,7 +12,9 @@ My General Notes
   8.  [Java Specialists Magazine](http://www.javaspecialists.eu/archive/Issue204.html)
   9.  [Ray Toal Computing Notes](http://cs.lmu.edu/~ray/)
   
-  
+#### DevOps
+1. [NanoBox Desktop](https://desktop.nanobox.io/downloads/)
+2. [Spinnaker - a continous development engine](https://github.com/spinnaker)
 
 #### Clojure
 1. [Clojure](https://github.com/clojure-cookbook)
