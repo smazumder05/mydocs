@@ -11,10 +11,13 @@ My General Notes
   7.  [Beware of Functional Programming in  Java ](http://www.javacodegeeks.com/2015/11/beware-of-functional-programming-in-java.html)
   8.  [Java Specialists Magazine](http://www.javaspecialists.eu/archive/Issue204.html)
   9.  [Ray Toal Computing Notes](http://cs.lmu.edu/~ray/)
+  10.  [A 360 degree view of Nextflix Architecture](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html)
+  11.  [Low Latency Decision as a Service Design Patterns](http://tech.forter.com/9-5-low-latency-decision-as-a-service-design-patterns/)
   
 #### DevOps
 1. [NanoBox Desktop](https://desktop.nanobox.io/downloads/)
 2. [Spinnaker - a continous development engine](https://github.com/spinnaker)
+3. [Flapjack](http://flapjack.io/)
 
 #### Clojure
 1. [Clojure](https://github.com/clojure-cookbook)
@@ -31,6 +34,7 @@ My General Notes
 2. [Jérôme Petazzoni github](https://github.com/jpetazzo)
 3. [Daniel Pupius](https://github.com/dpup?tab=repositories)
 4. [Real Logic](https://github.com/real-logic)
+5. [Itai Frenkel](https://github.com/itaifrenkel)
 5. 
 #### Performance Testing
 1. [Performance Testing Plus](http://www.perftestplus.com/core_principles.htm)
