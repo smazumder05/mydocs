@@ -15,6 +15,7 @@ My General Notes
   11.  [Low Latency Decision as a Service Design Patterns](http://tech.forter.com/9-5-low-latency-decision-as-a-service-design-patterns/)
   12.  [concurrency Blog - typesafe](https://www.typesafe.com/blog/async-back-pressure-immutability-resilience-concurrency-and-more-from-typesafe-at-devoxx)
   13. [Orbit](http://orbit.bioware.com/)
+  14. [Best Practices for a New Go Developer](http://blog.codeship.com/best-practices-for-a-new-go-developer/)
   
 #### DevOps
 1. [NanoBox Desktop](https://desktop.nanobox.io/downloads/)
@@ -38,6 +39,7 @@ My General Notes
 4. [Real Logic](https://github.com/real-logic)
 5. [Itai Frenkel](https://github.com/itaifrenkel)
 6. [lutzh Huhnken](https://github.com/lutzh?tab=repositories)
+7. [Konrad Malawski](https://github.com/ktoso?tab=repositories)
 5. 
 #### Performance Testing
 1. [Performance Testing Plus](http://www.perftestplus.com/core_principles.htm)
