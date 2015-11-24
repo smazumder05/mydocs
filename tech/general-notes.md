@@ -16,6 +16,7 @@ My General Notes
   12.  [concurrency Blog - typesafe](https://www.typesafe.com/blog/async-back-pressure-immutability-resilience-concurrency-and-more-from-typesafe-at-devoxx)
   13. [Orbit](http://orbit.bioware.com/)
   14. [Best Practices for a New Go Developer](http://blog.codeship.com/best-practices-for-a-new-go-developer/)
+  15. [Go pitfalls and Gotchas](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
   
 #### DevOps
 1. [NanoBox Desktop](https://desktop.nanobox.io/downloads/)
