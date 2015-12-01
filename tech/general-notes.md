@@ -17,6 +17,8 @@ My General Notes
   13. [Orbit](http://orbit.bioware.com/)
   14. [Best Practices for a New Go Developer](http://blog.codeship.com/best-practices-for-a-new-go-developer/)
   15. [Go pitfalls and Gotchas](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+  16. [Go Cookbook](https://github.com/iand/gocookbook/blob/master/recipes/waitgroup.md)
+  17. [Dancing wit Go Mutexes](https://medium.com/@deckarep/dancing-with-go-s-mutexes-92407ae927bf#.scf01ad1i)
   
 #### DevOps
 1. [NanoBox Desktop](https://desktop.nanobox.io/downloads/)
