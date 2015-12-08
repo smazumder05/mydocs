@@ -48,6 +48,7 @@ My General Notes
 5. [Itai Frenkel](https://github.com/itaifrenkel)
 6. [lutzh Huhnken](https://github.com/lutzh?tab=repositories)
 7. [Konrad Malawski](https://github.com/ktoso?tab=repositories)
+8. [spf13 - Author of Hugo](https://github.com/spf13?tab=repositories)
 5. 
 #### Performance Testing
 1. [Performance Testing Plus](http://www.perftestplus.com/core_principles.htm)
