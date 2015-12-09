@@ -23,6 +23,7 @@ My General Notes
   19. [Caddy Web Server](https://caddyserver.com/download)
   20. [Gopher Academy](https://blog.gopheracademy.com/)
   21. [Designing a search system for log data in Go](http://www.philipotoole.com/designing-a-search-system-for-log-data-part-3/)
+  22. [Go Kit](http://peter.bourgon.org/go-kit/)
   
 #### DevOps
 1. [NanoBox Desktop](https://desktop.nanobox.io/downloads/)
