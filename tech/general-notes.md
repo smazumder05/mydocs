@@ -22,6 +22,7 @@ My General Notes
   18. [GoLang's Data Race Detector Tool](https://golang.org/doc/articles/race_detector.html)
   19. [Caddy Web Server](https://caddyserver.com/download)
   20. [Gopher Academy](https://blog.gopheracademy.com/)
+  21. [Designing a search system for log data in Go](http://www.philipotoole.com/designing-a-search-system-for-log-data-part-3/)
   
 #### DevOps
 1. [NanoBox Desktop](https://desktop.nanobox.io/downloads/)
